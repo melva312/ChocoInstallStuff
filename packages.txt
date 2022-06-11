@@ -1,0 +1,15 @@
+notepadplusplus
+Firefox
+transmission
+7zip
+thunderbird
+spotify
+vlc
+putty
+winscp
+vscode
+greenshot
+libreoffice-fresh
+lens
+git
+choco-upgrade-all-at-startup
